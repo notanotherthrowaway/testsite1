@@ -1,5 +1,6 @@
 <html>
 <!-- pkrausse@impact.com // simple submit page -->
+<body> 
 <form
   action="https://formspree.io/xoqkwleo"
   method="POST"
@@ -21,4 +22,5 @@
 
   <button type="submit">Send</button>
 </form>
+</body>
 </html>
